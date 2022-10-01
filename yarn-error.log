@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/andreanijean/.nvm/versions/node/v14.18.1/bin/node /usr/local/bin/yarn add express
+
+PATH: 
+  /Users/andreanijean/.nvm/versions/node/v14.18.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/andreanijean/Desktop/365-test-tech/backend/node_modules/.bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.18.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/andreanijean/Desktop/365-test-tech/backend/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
