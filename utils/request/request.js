@@ -7,7 +7,6 @@ module.exports = {
                 ? await axios[method](url, data, {headers})
                 : await axios[method](url, {headers})
             return response
-
         } catch(err) {
             return err
         }
